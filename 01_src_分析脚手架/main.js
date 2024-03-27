@@ -2,7 +2,7 @@ import Vue from 'vue' //这里引入的是残缺版的vue,是没有模版解析�
 import App from './App.vue'
 // import Vue from 'vue/dist/vue';
 
-Vue.config.productionTip = false;
+Vue.config.productionTip = false; 
 
 /*
 	关于不同版本的Vue：
